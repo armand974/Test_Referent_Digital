@@ -7,4 +7,4 @@ Apprendre à utiliser l'interface de github
 
 >_[Entrainement](https://github.com/simplonco/training) / Git_
 
-![Git](git.png)
+![Science-fiction](science_fiction_7.jpg)
